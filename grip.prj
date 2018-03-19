@@ -1,0 +1,804 @@
+[Project Header]
+Version = 1200
+Pathname = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.prj"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2012"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2012"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Files = 35
+Target Type = "Executable"
+Flags = 2064
+Copied From Locked InstrDrv Directory = False
+Copied from VXIPNP Directory = False
+Locked InstrDrv Name = ""
+Don't Display Deploy InstrDrv Dialog = False
+
+[File 0001]
+File Type = "CSource"
+Res Id = 1
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/ADC.C"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/ADC.C"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0002]
+File Type = "Include"
+Res Id = 2
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/ADC.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/ADC.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0003]
+File Type = "CSource"
+Res Id = 3
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "APP/APP.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/APP/APP.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "app"
+
+[File 0004]
+File Type = "CSource"
+Res Id = 4
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/audio.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/audio.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0005]
+File Type = "Include"
+Res Id = 5
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/audio.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/audio.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0006]
+File Type = "CSource"
+Res Id = 6
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/CfgFile.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/CfgFile.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0007]
+File Type = "Include"
+Res Id = 7
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/CfgFile.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/CfgFile.h"
+Exclude = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0008]
+File Type = "CSource"
+Res Id = 8
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/DUT.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/DUT.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0009]
+File Type = "Include"
+Res Id = 9
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/DUT.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/DUT.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0010]
+File Type = "CSource"
+Res Id = 10
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/FCT.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/FCT.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0011]
+File Type = "Include"
+Res Id = 11
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/FCT.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/FCT.h"
+Exclude = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0012]
+File Type = "CSource"
+Res Id = 12
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/flasher.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/flasher.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0013]
+File Type = "Include"
+Res Id = 13
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/flasher.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/flasher.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0014]
+File Type = "CSource"
+Res Id = 14
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "grip.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0015]
+File Type = "Include"
+Res Id = 15
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "grip.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.h"
+Exclude = False
+Project Flags = 0
+Folder = "Source Files"
+
+[File 0016]
+File Type = "User Interface Resource"
+Res Id = 16
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "grip.uir"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.uir"
+Exclude = False
+Project Flags = 0
+Folder = "User Interface Files"
+
+[File 0017]
+File Type = "Include"
+Res Id = 17
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "APP/includes.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/APP/includes.h"
+Exclude = False
+Project Flags = 0
+Folder = "app"
+
+[File 0018]
+File Type = "CSource"
+Res Id = 18
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/Init.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Init.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0019]
+File Type = "Include"
+Res Id = 19
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/Init.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Init.h"
+Exclude = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0020]
+File Type = "CSource"
+Res Id = 20
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/IO.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/IO.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0021]
+File Type = "Include"
+Res Id = 21
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/IO.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/IO.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0022]
+File Type = "CSource"
+Res Id = 22
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/Log.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Log.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0023]
+File Type = "Include"
+Res Id = 23
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/Log.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Log.h"
+Exclude = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0024]
+File Type = "CSource"
+Res Id = 24
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/Power.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Power.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0025]
+File Type = "Include"
+Res Id = 25
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/Power.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Power.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0026]
+File Type = "CSource"
+Res Id = 26
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/Relay.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Relay.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0027]
+File Type = "Include"
+Res Id = 27
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/Relay.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Relay.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0028]
+File Type = "Include"
+Res Id = 28
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/rs232.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/rs232.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0029]
+File Type = "CSource"
+Res Id = 29
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/RS485.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/RS485.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0030]
+File Type = "Include"
+Res Id = 30
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/RS485.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/RS485.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0031]
+File Type = "CSource"
+Res Id = 31
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/Scanner.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Scanner.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0032]
+File Type = "Include"
+Res Id = 32
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "Driver/Scanner.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Scanner.h"
+Exclude = False
+Project Flags = 0
+Folder = "Driver"
+
+[File 0033]
+File Type = "CSource"
+Res Id = 33
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/TestLib.c"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/TestLib.c"
+Exclude = False
+Compile Into Object File = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0034]
+File Type = "Include"
+Res Id = 34
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "FrameWork/TestLib.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/TestLib.h"
+Exclude = False
+Project Flags = 0
+Folder = "FrameWork"
+
+[File 0035]
+File Type = "Include"
+Res Id = 35
+Path Is Rel = True
+Path Rel To = "Project"
+Path Rel Path = "APP/type.h"
+Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/APP/type.h"
+Exclude = False
+Project Flags = 0
+Folder = "app"
+
+[Folders]
+Include Files Folder Not Added Yet = True
+Instrument Files Folder Not Added Yet = True
+Library Files Folder Not Added Yet = True
+Folder 0 = "User Interface Files"
+Folder 1 = "app"
+Folder 2 = "Driver"
+Folder 3 = "FrameWork"
+Folder 4 = "Source Files"
+
+[Custom Build Configs]
+Num Custom Build Configs = 0
+
+[Default Build Config Debug]
+Config Name = "Debug"
+Is 64-Bit = False
+Is Release = False
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Conservative"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = False
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "Honeywell"
+Company Name Ex = "%company"
+File Description = "grip (Debug x86)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "grip"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Honeywell 2017"
+Legal Copyright Ex = "Copyright © %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "grip.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Honeywell grip"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Default Build Config Release]
+Config Name = "Release"
+Is 64-Bit = False
+Is Release = True
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Conservative"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = False
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Default Build Config Debug64]
+Config Name = "Debug64"
+Is 64-Bit = True
+Is Release = False
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Conservative"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = True
+Enable Unreferenced Identifiers Warning = True
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = False
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "Honeywell"
+Company Name Ex = "%company"
+File Description = "grip (Debug x64)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "grip"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Honeywell 2017"
+Legal Copyright Ex = "Copyright © %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "grip.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Honeywell grip"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Default Build Config Release64]
+Config Name = "Release64"
+Is 64-Bit = True
+Is Release = True
+Default Calling Convention = "cdecl"
+Uninitialized Locals Compile Warning = "Conservative"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+Enable C99 Extensions = True
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+Sign = False
+Sign Store = ""
+Sign Certificate = ""
+Sign Timestamp URL = ""
+Sign URL = ""
+Manifest Embed = False
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Runtime Support = "Full Runtime Support"
+Runtime Binding = "Shared"
+Embed Project .UIRs = False
+Generate Map File = False
+Create Console Application = False
+Using LoadExternalModule = False
+DLL Exports = "Include File Symbols"
+Register ActiveX Server = False
+Numeric File Version = "1,0,0,0"
+Numeric Prod Version = "1,0,0,0"
+Comments = ""
+Comments Ex = ""
+Company Name = "Honeywell"
+Company Name Ex = "%company"
+File Description = "grip (Release x64)"
+File Description Ex = "%application (%rel_dbg %arch)"
+File Version = "1.0"
+File Version Ex = "%f1.%f2"
+Internal Name = "grip"
+Internal Name Ex = "%basename"
+Legal Copyright = "Copyright © Honeywell 2017"
+Legal Copyright Ex = "Copyright © %company %Y"
+Legal Trademarks = ""
+Legal Trademarks Ex = ""
+Original Filename = "grip.exe"
+Original Filename Ex = "%filename"
+Private Build = ""
+Private Build Ex = ""
+Product Name = "Honeywell grip"
+Product Name Ex = "%company %application"
+Product Version = "1.0"
+Product Version Ex = "%p1.%p2"
+Special Build = ""
+Special Build Ex = ""
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+
+[Compiler Options]
+Default Calling Convention = "cdecl"
+Require Prototypes = True
+Require Return Values = True
+Enable Pointer Mismatch Warning = False
+Enable Unreachable Code Warning = False
+Enable Unreferenced Identifiers Warning = False
+Enable Assignment In Conditional Warning = False
+O Option Compatible With 5.0 = False
+Enable C99 Extensions = True
+Uninitialized Locals Compile Warning = "Conservative"
+Precompile Prefix Header = False
+Prefix Header File = ""
+
+[Run Options]
+Stack Size = 250000
+Image Base Address = 4194304
+Image Base Address x64 = 4194304
+
+[Compiler Defines]
+Compiler Defines = "/DWIN32_LEAN_AND_MEAN"
+
+[Create Executable]
+Executable File_Debug Is Rel = True
+Executable File_Debug Rel To = "Project"
+Executable File_Debug Rel Path = "grip.exe"
+Executable File_Debug = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.exe"
+Executable File_Release Is Rel = True
+Executable File_Release Rel To = "Project"
+Executable File_Release Rel Path = "grip.exe"
+Executable File_Release = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.exe"
+Executable File_Debug64 Is Rel = True
+Executable File_Debug64 Rel To = "Project"
+Executable File_Debug64 Rel Path = "grip.exe"
+Executable File_Debug64 = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.exe"
+Executable File_Release64 Is Rel = True
+Executable File_Release64 Rel To = "Project"
+Executable File_Release64 Rel Path = "grip.exe"
+Executable File_Release64 = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.exe"
+Icon File Is Rel = False
+Icon File = ""
+Application Title = ""
+DLL Exports = "Include File Symbols"
+DLL Import Library Choice = "Gen Lib For Current Mode"
+Use IVI Subdirectories for Import Libraries = False
+Use VXIPNP Subdirectories for Import Libraries = False
+Use Dflt Import Lib Base Name = True
+Where to Copy DLL = "Do not copy"
+Custom Directory to Copy DLL Is Rel = False
+Custom Directory to Copy DLL = ""
+Generate Source Documentation = "None"
+Add Type Lib To DLL = False
+Include Type Lib Help Links = False
+TLB Help Style = "HLP"
+Type Lib FP File Is Rel = False
+Type Lib FP File = ""
+Type Lib Guid = ""
+Runtime Support = "Full Runtime Support"
+Instrument Driver Support Only = False
+Embed Project .UIRs = False
+Generate Map File = False
+
+[External Compiler Support]
+UIR Callbacks File Option = 0
+Using LoadExternalModule = False
+Create Project Symbols File = True
+UIR Callbacks Obj File Is Rel = False
+UIR Callbacks Obj File = ""
+Project Symbols H File Is Rel = False
+Project Symbols H File = ""
+Project Symbols Obj File Is Rel = False
+Project Symbols Obj File = ""
+
+[ActiveX Server Options]
+Specification File Is Rel = False
+Specification File = ""
+Source File Is Rel = False
+Source File = ""
+Include File Is Rel = False
+Include File = ""
+IDL File Is Rel = False
+IDL File = ""
+Register ActiveX Server = False
+
+[Signing Info]
+Sign = False
+Sign Debug Build = False
+Store = ""
+Certificate = ""
+Timestamp URL = ""
+URL = ""
+
+[Manifest Info]
+Embed = False
+
+[tpcSection]
+tpcEnabled = 0
+tpcOverrideEnvironment = 0
+tpcEnabled x64 = 0
+tpcOverrideEnvironment x64 = 0
+

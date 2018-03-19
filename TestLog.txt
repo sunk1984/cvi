@@ -1,0 +1,1592 @@
+MAC Bar code scan
+serial number: 12345678
+PASS!
+
+9V Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Red LED - on
+FAIL!!!
+
+Red LED - off
+FAIL!!!
+
+Green LED - on
+FAIL!!!
+
+Green LED - off
+FAIL!!!
+
+Tamper
+FAIL!!!
+
+Tamper
+FAIL!!!
+
+RESET_GPIO
+FAIL!!!
+
+RESET_GPIO
+FAIL!!!
+
+PIEZO - on
+FAIL!!!
+
+PIEZO - off
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+WIFI
+FAIL!!!
+
+ZWAVE
+FAIL!!!
+
+USB
+FAIL!!!
+
+Wiselink-program
+FAIL!!!
+
+BLE-program
+FAIL!!!
+
+RF6-program
+FAIL!!!
+
+ECC508
+FAIL!!!
+
+LCD
+FAIL!!!
+
+CAMERA
+FAIL!!!
+
+TOUCH
+FAIL!!!
+
+MAC Bar code scan
+serial number: 356654564
+PASS!
+
+9V Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Voltage Test
+PASS!
+
+Red LED - on
+FAIL!!!
+
+Red LED - off
+FAIL!!!
+
+Green LED - on
+FAIL!!!
+
+Green LED - off
+FAIL!!!
+
+Tamper
+FAIL!!!
+
+Tamper
+FAIL!!!
+
+RESET_GPIO
+FAIL!!!
+
+RESET_GPIO
+FAIL!!!
+
+PIEZO - on
+FAIL!!!
+
+PIEZO - off
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+WIFI
+FAIL!!!
+
+ZWAVE
+FAIL!!!
+
+USB
+FAIL!!!
+
+Wiselink-program
+FAIL!!!
+
+BLE-program
+FAIL!!!
+
+RF6-program
+FAIL!!!
+
+ECC508
+FAIL!!!
+
+LCD
+FAIL!!!
+
+CAMERA
+FAIL!!!
+
+TOUCH
+FAIL!!!
+
+MAC Bar code scan
+serial number: 123456
+PASS!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+DUT Power On
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+5V  Voltage Test
+PASS!
+
+3V3 Voltage Test
+PASS!
+
+1V4 Voltage Test
+PASS!
+
+1V35 Voltage Test
+PASS!
+
+SNVS Voltage Test
+PASS!
+
+Wiselink Voltage Test
+PASS!
+
+LED1 Test
+PASS!
+
+CR36 on
+FAIL!!!
+
+CR36 off
+FAIL!!!
+
+CR7 on
+FAIL!!!
+
+CR7 off
+FAIL!!!
+
+CR21 on
+FAIL!!!
+
+CR21 off
+FAIL!!!
+
+CR2 on
+FAIL!!!
+
+CR2 off
+FAIL!!!
+
+CR66 Red on
+FAIL!!!
+
+CR65 Red on
+FAIL!!!
+
+CR64 Red on
+FAIL!!!
+
+CR59 Red on
+FAIL!!!
+
+CR60 Red on
+FAIL!!!
+
+CR61 Red on
+FAIL!!!
+
+CR66 Red off
+FAIL!!!
+
+CR65 Red off
+FAIL!!!
+
+CR64 Red off
+FAIL!!!
+
+CR59 Red off
+FAIL!!!
+
+CR60 Red off
+FAIL!!!
+
+CR61 Red off
+FAIL!!!
+
+CR66 Green on
+FAIL!!!
+
+CR65 Green on
+FAIL!!!
+
+CR64 Green on
+FAIL!!!
+
+CR59 Green on
+FAIL!!!
+
+CR60 Green on
+FAIL!!!
+
+CR61 Green on
+FAIL!!!
+
+CR66 Green off
+FAIL!!!
+
+CR65 Green off
+FAIL!!!
+
+CR64 Green off
+FAIL!!!
+
+CR59 Green off
+FAIL!!!
+
+CR60 Green off
+FAIL!!!
+
+CR61 Green off
+FAIL!!!
+
+CR66 Bule on
+FAIL!!!
+
+CR65 Bule on
+FAIL!!!
+
+CR64 Bule on
+FAIL!!!
+
+CR59 Bule on
+FAIL!!!
+
+CR60 Bule on
+FAIL!!!
+
+CR61 Bule on
+FAIL!!!
+
+CR66 Bule off
+FAIL!!!
+
+CR65 Bule off
+FAIL!!!
+
+CR64 Bule off
+FAIL!!!
+
+CR59 Bule off
+FAIL!!!
+
+CR60 Bule off
+FAIL!!!
+
+CR61 Bule off
+FAIL!!!
+
+Tamper1
+FAIL!!!
+
+Tamper1
+FAIL!!!
+
+Tamper2
+FAIL!!!
+
+Tamper2
+FAIL!!!
+
+Restore Button
+FAIL!!!
+
+Restore Button
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+WIFI
+FAIL!!!
+
+ZWAVE
+FAIL!!!
+
+LTE USB
+FAIL!!!
+
+ECC508
+FAIL!!!
+
+Wiselink program
+FAIL!!!
+
+BLE program
+FAIL!!!
+
+RF6 program
+FAIL!!!
+
+Coprocessor program
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+ECP test
+FAIL!!!
+
+IB2 test
+FAIL!!!
+
+AC Power Monitor
+FAIL!!!
+
+Zone Power monitor
+FAIL!!!
+
+Zone1 test
+PASS!
+
+Zone2 test
+PASS!
+
+Zone3 test
+PASS!
+
+Zone4 test
+PASS!
+
+Zone5 test
+PASS!
+
+Zone6 test
+PASS!
+
+Zone7 test
+PASS!
+
+Zone8 test
+PASS!
+
+Trigger1 out high
+FAIL!!!
+
+Trigger out1
+PASS!
+
+Trigger1 out1
+FAIL!!!
+
+Trigger out1
+PASS!
+
+Trigger2 out2
+FAIL!!!
+
+Trigger out2
+PASS!
+
+Trigger out1
+FAIL!!!
+
+Trigger out2
+PASS!
+
+Aux power out
+FAIL!!!
+
+Aux Power Test
+PASS!
+
+Aux power out
+FAIL!!!
+
+Aux Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Aux Current Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Siren power out
+FAIL!!!
+
+
+FAIL!!!
+
+Siren Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Siren power out
+FAIL!!!
+
+Siren Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+LTE ID
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+Expansion ID
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+WIFI ID
+FAIL!!!
+
+
+FAIL!!!
+
+Battery Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+
+FAIL!!!
+
+Battery discharge
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+AC cut off
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+MAC Bar code scan
+serial number: 123456
+PASS!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+DUT Power On
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+5V  Voltage Test
+PASS!
+
+3V3 Voltage Test
+PASS!
+
+1V4 Voltage Test
+PASS!
+
+1V35 Voltage Test
+PASS!
+
+SNVS Voltage Test
+PASS!
+
+Wiselink Voltage Test
+PASS!
+
+LED1 Test
+PASS!
+
+CR36 on
+FAIL!!!
+
+CR36 off
+FAIL!!!
+
+CR7 on
+FAIL!!!
+
+CR7 off
+FAIL!!!
+
+CR21 on
+FAIL!!!
+
+CR21 off
+FAIL!!!
+
+CR2 on
+FAIL!!!
+
+CR2 off
+FAIL!!!
+
+CR66 Red on
+FAIL!!!
+
+CR65 Red on
+FAIL!!!
+
+CR64 Red on
+FAIL!!!
+
+CR59 Red on
+FAIL!!!
+
+CR60 Red on
+FAIL!!!
+
+CR61 Red on
+FAIL!!!
+
+CR66 Red off
+FAIL!!!
+
+CR65 Red off
+FAIL!!!
+
+CR64 Red off
+FAIL!!!
+
+CR59 Red off
+FAIL!!!
+
+CR60 Red off
+FAIL!!!
+
+CR61 Red off
+FAIL!!!
+
+CR66 Green on
+FAIL!!!
+
+CR65 Green on
+FAIL!!!
+
+CR64 Green on
+FAIL!!!
+
+CR59 Green on
+FAIL!!!
+
+CR60 Green on
+FAIL!!!
+
+CR61 Green on
+FAIL!!!
+
+CR66 Green off
+FAIL!!!
+
+CR65 Green off
+FAIL!!!
+
+CR64 Green off
+FAIL!!!
+
+CR59 Green off
+FAIL!!!
+
+CR60 Green off
+FAIL!!!
+
+CR61 Green off
+FAIL!!!
+
+CR66 Bule on
+FAIL!!!
+
+CR65 Bule on
+FAIL!!!
+
+CR64 Bule on
+FAIL!!!
+
+CR59 Bule on
+FAIL!!!
+
+CR60 Bule on
+FAIL!!!
+
+CR61 Bule on
+FAIL!!!
+
+CR66 Bule off
+FAIL!!!
+
+CR65 Bule off
+FAIL!!!
+
+CR64 Bule off
+FAIL!!!
+
+CR59 Bule off
+FAIL!!!
+
+CR60 Bule off
+FAIL!!!
+
+CR61 Bule off
+FAIL!!!
+
+Tamper1
+FAIL!!!
+
+Tamper1
+FAIL!!!
+
+Tamper2
+FAIL!!!
+
+Tamper2
+FAIL!!!
+
+Restore Button
+FAIL!!!
+
+Restore Button
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+WIFI
+FAIL!!!
+
+ZWAVE
+FAIL!!!
+
+LTE USB
+FAIL!!!
+
+ECC508
+FAIL!!!
+
+Wiselink program
+FAIL!!!
+
+BLE program
+FAIL!!!
+
+RF6 program
+FAIL!!!
+
+Coprocessor program
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+ECP test
+FAIL!!!
+
+IB2 test
+FAIL!!!
+
+AC Power Monitor
+FAIL!!!
+
+Zone Power monitor
+FAIL!!!
+
+Zone1 test
+PASS!
+
+Zone2 test
+PASS!
+
+Zone3 test
+PASS!
+
+Zone4 test
+PASS!
+
+Zone5 test
+PASS!
+
+Zone6 test
+PASS!
+
+Zone7 test
+PASS!
+
+Zone8 test
+PASS!
+
+Trigger1 out high
+FAIL!!!
+
+Trigger out1
+PASS!
+
+Trigger1 out1
+FAIL!!!
+
+Trigger out1
+PASS!
+
+Trigger2 out2
+FAIL!!!
+
+Trigger out2
+PASS!
+
+Trigger out1
+FAIL!!!
+
+Trigger out2
+PASS!
+
+Aux power out
+FAIL!!!
+
+Aux Power Test
+PASS!
+
+Aux power out
+FAIL!!!
+
+Aux Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Aux Current Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Siren power out
+FAIL!!!
+
+
+FAIL!!!
+
+Siren Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Siren power out
+FAIL!!!
+
+Siren Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+LTE ID
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+Expansion ID
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+WIFI ID
+FAIL!!!
+
+
+FAIL!!!
+
+Battery Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+
+FAIL!!!
+
+Battery discharge
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+AC cut off
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+MAC Bar code scan
+serial number: 123456
+PASS!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+DUT Power On
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+5V  Voltage Test
+PASS!
+
+3V3 Voltage Test
+PASS!
+
+1V4 Voltage Test
+PASS!
+
+1V35 Voltage Test
+PASS!
+
+SNVS Voltage Test
+PASS!
+
+Wiselink Voltage Test
+PASS!
+
+LED1 Test
+PASS!
+
+CR36 on
+FAIL!!!
+
+CR36 off
+FAIL!!!
+
+CR7 on
+FAIL!!!
+
+CR7 off
+FAIL!!!
+
+CR21 on
+FAIL!!!
+
+CR21 off
+FAIL!!!
+
+CR2 on
+FAIL!!!
+
+CR2 off
+FAIL!!!
+
+CR66 Red on
+FAIL!!!
+
+CR65 Red on
+FAIL!!!
+
+CR64 Red on
+FAIL!!!
+
+CR59 Red on
+FAIL!!!
+
+CR60 Red on
+FAIL!!!
+
+CR61 Red on
+FAIL!!!
+
+CR66 Red off
+FAIL!!!
+
+CR65 Red off
+FAIL!!!
+
+CR64 Red off
+FAIL!!!
+
+CR59 Red off
+FAIL!!!
+
+CR60 Red off
+FAIL!!!
+
+CR61 Red off
+FAIL!!!
+
+CR66 Green on
+FAIL!!!
+
+CR65 Green on
+FAIL!!!
+
+CR64 Green on
+FAIL!!!
+
+CR59 Green on
+FAIL!!!
+
+CR60 Green on
+FAIL!!!
+
+CR61 Green on
+FAIL!!!
+
+CR66 Green off
+FAIL!!!
+
+CR65 Green off
+FAIL!!!
+
+CR64 Green off
+FAIL!!!
+
+CR59 Green off
+FAIL!!!
+
+CR60 Green off
+FAIL!!!
+
+CR61 Green off
+FAIL!!!
+
+CR66 Bule on
+FAIL!!!
+
+CR65 Bule on
+FAIL!!!
+
+CR64 Bule on
+FAIL!!!
+
+CR59 Bule on
+FAIL!!!
+
+CR60 Bule on
+FAIL!!!
+
+CR61 Bule on
+FAIL!!!
+
+CR66 Bule off
+FAIL!!!
+
+CR65 Bule off
+FAIL!!!
+
+CR64 Bule off
+FAIL!!!
+
+CR59 Bule off
+FAIL!!!
+
+CR60 Bule off
+FAIL!!!
+
+CR61 Bule off
+FAIL!!!
+
+Tamper1
+FAIL!!!
+
+Tamper1
+FAIL!!!
+
+Tamper2
+FAIL!!!
+
+Tamper2
+FAIL!!!
+
+Restore Button
+FAIL!!!
+
+Restore Button
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - CARD_DET
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - GPIO2
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - PWR_Nen
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - RING
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - IGT
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+LTE_Singal - PWR_MON
+FAIL!!!
+
+WIFI
+FAIL!!!
+
+ZWAVE
+FAIL!!!
+
+LTE USB
+FAIL!!!
+
+ECC508
+FAIL!!!
+
+Wiselink program
+FAIL!!!
+
+BLE program
+FAIL!!!
+
+RF6 program
+FAIL!!!
+
+Coprocessor program
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+ECP test
+FAIL!!!
+
+IB2 test
+FAIL!!!
+
+AC Power Monitor
+FAIL!!!
+
+Zone Power monitor
+FAIL!!!
+
+Zone1 test
+PASS!
+
+Zone2 test
+PASS!
+
+Zone3 test
+PASS!
+
+Zone4 test
+PASS!
+
+Zone5 test
+PASS!
+
+Zone6 test
+PASS!
+
+Zone7 test
+PASS!
+
+Zone8 test
+PASS!
+
+Trigger1 out high
+FAIL!!!
+
+Trigger out1
+PASS!
+
+Trigger1 out1
+FAIL!!!
+
+Trigger out1
+PASS!
+
+Trigger2 out2
+FAIL!!!
+
+Trigger out2
+PASS!
+
+Trigger out1
+FAIL!!!
+
+Trigger out2
+PASS!
+
+Aux power out
+FAIL!!!
+
+Aux Power Test
+PASS!
+
+Aux power out
+FAIL!!!
+
+Aux Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Aux Current Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Siren power out
+FAIL!!!
+
+
+FAIL!!!
+
+Siren Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+Siren power out
+FAIL!!!
+
+Siren Power Test
+PASS!
+
+Aux Power Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+LTE ID
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+Expansion ID
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+WIFI ID
+FAIL!!!
+
+
+FAIL!!!
+
+Battery Monitor
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+
+FAIL!!!
+
+Battery discharge
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+AC cut off
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+
+
+FAIL!!!
+
+12V Voltage Test
+FAIL!!!
+

@@ -1,0 +1,6 @@
+---- Proc_InitStr Matches (5 in 3 files) ----
+Grip.c:            Proc_InitStr();
+Grip.c:            Proc_InitStr();
+Grip.c:            Proc_InitStr();
+Init.c (framework):int Proc_InitStr(void)
+Init.h (framework):extern int Proc_InitStr(void);
