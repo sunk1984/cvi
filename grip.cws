@@ -12,11 +12,11 @@ VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
 Number of Projects = 1
 Active Project = 1
 Project 0001 = "grip.prj"
-Drag Bar Left = 289
+Drag Bar Left = 273
 Window Top = 36
-Window Left = 271
+Window Left = 1130
 Window Bottom = 538
-Window Right = 1061
+Window Right = 1920
 Maximized = True
 Maximized Children = True
 Max32 Number Of Errors = 20
@@ -30,9 +30,9 @@ Save Changes Before Compiling = "Always"
 Hide Windows = False
 Break At First Statement = False
 Sort Type = "File Name"
-Number of Opened Files = 19
+Number of Opened Files = 14
 Window Confinement Region Enabled = True
-MainColumnWidth = 272
+MainColumnWidth = 256
 FileDateColumnWidth = 70
 FileSizeColumnWidth = 70
 StatusColumnWidth = 70
@@ -56,17 +56,17 @@ Window Top = 36
 Window Left = 10
 Window Height = 323
 Window Width = 517
-Window Z-Order = 10
+Window Z-Order = 5
 
 [File 0002]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/APP/APP.c"
 File Type = "CSource"
-Disk Date = 3594261005
+Disk Date = 3604289897
 In Projects = "1,"
 Window Top = 62
 Window Left = 26
-Window Z-Order = 2
-Source Window State = "1,25,29,29,0,3,3,0,0,80,0,0,0,0,0,25,0,0,18,17,323,517,1,0,"
+Window Z-Order = 1
+Source Window State = "1,36,37,36,0,0,0,0,0,265,0,0,0,0,0,73,0,0,27,37,323,517,1,0,"
 
 [File 0003]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/CfgFile.c"
@@ -75,8 +75,7 @@ Disk Date = 3594261511
 In Projects = "1,"
 Window Top = 36
 Window Left = 10
-Window Z-Order = 1
-Source Window State = "1,27,27,27,29,39,29,0,0,266,0,0,0,0,0,56,77,0,105,8,179,517,1,0,"
+Source Window State = "1,27,27,27,29,39,29,0,0,76,0,0,0,0,0,13,77,0,105,8,179,517,1,0,"
 
 [File 0004]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/DUT.c"
@@ -85,8 +84,7 @@ Disk Date = 3594348401
 In Projects = "1,"
 Window Top = 62
 Window Left = 26
-Window Z-Order = 4
-Source Window State = "1,56,56,56,11,21,21,0,0,80,0,0,0,0,0,17,15,0,95,67,227,517,1,0,"
+Source Window State = "1,56,56,56,11,21,21,0,0,76,0,0,0,0,0,17,15,0,95,67,227,517,1,0,"
 
 [File 0005]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/FCT.c"
@@ -95,8 +93,8 @@ Disk Date = 3594096797
 In Projects = "1,"
 Window Top = 92
 Window Left = 42
-Window Z-Order = 15
-Source Window State = "1,43,43,43,66,72,72,0,0,80,0,0,0,0,0,25,25,0,41,33,323,517,1,0,"
+Window Z-Order = 10
+Source Window State = "1,43,43,43,66,72,72,0,0,76,0,0,0,0,0,25,25,0,41,33,323,517,1,0,"
 
 [File 0006]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.c"
@@ -105,8 +103,8 @@ Disk Date = 3594184754
 In Projects = "1,"
 Window Top = 92
 Window Left = 42
-Window Z-Order = 8
-Source Window State = "1,71,71,71,12,25,25,0,3,80,0,0,0,0,0,25,55,0,71,12,323,517,1,0,"
+Window Z-Order = 3
+Source Window State = "1,71,71,71,12,25,25,0,3,76,0,0,0,0,0,25,55,0,71,12,323,517,1,0,"
 Breakpoint 0001 = "51,0,enabled,"
 
 [File 0007]
@@ -116,8 +114,8 @@ Disk Date = 3594167060
 In Projects = "1,"
 Window Top = 36
 Window Left = 10
-Window Z-Order = 14
-Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,10,0,14,2,323,517,1,0,"
+Window Z-Order = 9
+Source Window State = "1,0,0,0,0,0,0,0,0,76,0,0,0,0,0,25,10,0,14,2,323,517,1,0,"
 
 [File 0008]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Scanner.c"
@@ -126,8 +124,8 @@ Disk Date = 3594025543
 In Projects = "1,"
 Window Top = 36
 Window Left = 10
-Window Z-Order = 19
-Source Window State = "1,12,12,12,36,38,38,0,0,80,0,0,0,0,0,17,18,0,10,17,227,517,1,0,"
+Window Z-Order = 14
+Source Window State = "1,12,12,12,36,38,38,0,0,76,0,0,0,0,0,17,18,0,10,17,227,517,1,0,"
 
 [File 0009]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Scanner.h"
@@ -136,8 +134,7 @@ Disk Date = 3593942721
 In Projects = "1,"
 Window Top = 74
 Window Left = 30
-Window Z-Order = 6
-Source Window State = "1,0,0,0,0,0,0,0,0,112,0,0,0,0,0,25,0,0,0,0,323,709,1,0,"
+Source Window State = "1,0,0,0,0,0,0,0,0,108,0,0,0,0,0,25,0,0,0,0,323,709,1,0,"
 
 [File 0010]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/TestLib.c"
@@ -146,100 +143,89 @@ Disk Date = 3594348640
 In Projects = "1,"
 Window Top = 36
 Window Left = 10
-Window Z-Order = 7
-Source Window State = "1,674,674,674,15,16,15,0,0,80,0,0,0,0,0,13,607,0,658,37,179,517,1,0,"
+Window Z-Order = 2
+Source Window State = "1,674,674,674,15,16,15,0,0,76,0,0,0,0,0,13,607,0,658,37,179,517,1,0,"
 
 [File 0011]
-Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/APP/userint.h"
-File Type = "Include"
-Disk Date = 3403216800
-In Projects = ""
-Window Top = 38
-Window Left = 11
-Window Z-Order = 5
-Source Window State = "1,907,908,907,0,0,0,0,0,88,0,0,0,0,0,25,760,0,938,195,323,565,1,0,"
-
-[File 0012]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/audio.c"
 File Type = "CSource"
 Disk Date = 3594095593
 In Projects = "1,"
 Window Top = 36
 Window Left = 10
-Window Z-Order = 13
-Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,56,0,68,4,323,517,1,0,"
+Window Z-Order = 8
+Source Window State = "1,0,0,0,0,0,0,0,0,76,0,0,0,0,0,25,56,0,68,4,323,517,1,0,"
 
-[File 0013]
+[File 0012]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/DUT.h"
 File Type = "Include"
 Disk Date = 3594264314
 In Projects = "1,"
 Window Top = 254
 Window Left = 125
-Window Z-Order = 11
-Source Window State = "1,20,20,20,0,6,6,0,0,113,0,0,0,0,0,25,0,0,21,64,323,715,1,0,"
+Window Z-Order = 6
+Source Window State = "1,20,20,20,0,6,6,0,0,109,0,0,0,0,0,25,0,0,21,64,323,715,1,0,"
 
-[File 0014]
+[File 0013]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/flasher.c"
 File Type = "CSource"
 Disk Date = 3593561356
 In Projects = "1,"
 Window Top = 38
 Window Left = 11
-Window Z-Order = 12
-Source Window State = "1,0,0,0,0,0,0,0,0,113,0,0,0,0,0,25,3,0,7,4,323,715,1,0,"
+Window Z-Order = 7
+Source Window State = "1,0,0,0,0,0,0,0,0,109,0,0,0,0,0,25,3,0,7,4,323,715,1,0,"
 
-[File 0015]
+[File 0014]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/IO.c"
 File Type = "CSource"
 Disk Date = 3593489760
 In Projects = "1,"
 Window Top = 110
 Window Left = 49
-Window Z-Order = 17
-Source Window State = "1,63,63,63,17,43,43,0,0,113,0,0,0,0,0,25,43,0,63,17,323,715,1,0,"
+Window Z-Order = 12
+Source Window State = "1,63,63,63,17,43,43,0,0,109,0,0,0,0,0,25,43,0,63,17,323,715,1,0,"
 
-[File 0016]
+[File 0015]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/IO.h"
 File Type = "Include"
 Disk Date = 3527120992
 In Projects = "1,"
 Window Top = 146
 Window Left = 68
-Window Z-Order = 18
-Source Window State = "1,48,48,48,8,24,24,0,0,113,0,0,0,0,0,25,56,0,60,12,323,715,1,0,"
+Window Z-Order = 13
+Source Window State = "1,48,48,48,8,24,24,0,0,109,0,0,0,0,0,25,56,0,60,12,323,715,1,0,"
 
-[File 0017]
+[File 0016]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Relay.h"
 File Type = "Include"
 Disk Date = 3520465926
 In Projects = "1,"
 Window Top = 110
 Window Left = 49
-Window Z-Order = 16
-Source Window State = "1,0,0,0,0,0,0,0,0,113,0,0,0,0,0,25,0,0,8,12,323,715,1,0,"
+Window Z-Order = 11
+Source Window State = "1,0,0,0,0,0,0,0,0,109,0,0,0,0,0,25,0,0,8,12,323,715,1,0,"
 
-[File 0018]
+[File 0017]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/RS485.c"
 File Type = "CSource"
 Disk Date = 3594083195
 In Projects = "1,"
 Window Top = 36
 Window Left = 10
-Window Z-Order = 3
-Source Window State = "1,352,352,352,11,17,17,0,0,80,0,0,0,0,0,17,135,0,176,12,227,517,1,0,"
+Source Window State = "1,352,352,352,11,17,17,0,0,76,0,0,0,0,0,17,135,0,176,12,227,517,1,0,"
 
-[File 0019]
+[File 0018]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Init.c"
 File Type = "CSource"
 Disk Date = 3594259366
 In Projects = "1,"
 Window Top = 62
 Window Left = 26
-Window Z-Order = 9
-Source Window State = "1,47,47,47,18,27,27,0,3,80,0,0,0,0,0,24,25,0,47,18,311,517,1,0,"
+Window Z-Order = 4
+Source Window State = "1,47,47,47,18,27,27,0,3,76,0,0,0,0,0,24,25,0,47,18,311,517,1,0,"
 
-[File 0020]
+[File 0019]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/ADC.C"
 File Type = "CSource"
 Disk Date = 3593928122
@@ -248,28 +234,28 @@ Window Top = 36
 Window Left = 10
 Source Window State = "1,70,70,70,5,16,16,0,3,0,0,0,0,0,0,0,44,0,70,5,179,517,1,0,"
 
-[File 0021]
+[File 0020]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/ADC.h"
 File Type = "Include"
 Disk Date = 3593580748
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0022]
+[File 0021]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/audio.h"
 File Type = "Include"
 Disk Date = 3594095611
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0023]
+[File 0022]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/CfgFile.h"
 File Type = "Include"
 Disk Date = 3593928556
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0024]
+[File 0023]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/FCT.h"
 File Type = "Include"
 Disk Date = 3594083275
@@ -278,14 +264,14 @@ Window Top = 146
 Window Left = 68
 Source Window State = "1,3,3,3,8,16,16,0,3,0,0,0,0,0,0,0,0,0,3,8,323,715,1,0,"
 
-[File 0025]
+[File 0024]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/flasher.h"
 File Type = "Include"
 Disk Date = 3506656537
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0026]
+[File 0025]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/grip.h"
 File Type = "Include"
 Disk Date = 3594178524
@@ -294,7 +280,7 @@ Window Top = 122
 Window Left = 58
 Source Window State = "1,4,5,4,3,35,3,0,0,0,0,0,0,0,0,0,9,0,8,39,323,517,1,0,"
 
-[File 0027]
+[File 0026]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Init.h"
 File Type = "Include"
 Disk Date = 3594101417
@@ -303,7 +289,7 @@ Window Top = 36
 Window Left = 10
 Source Window State = "1,6,6,6,8,17,17,0,3,0,0,0,0,0,0,0,0,0,6,8,323,517,1,0,"
 
-[File 0028]
+[File 0027]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Log.c"
 File Type = "CSource"
 Disk Date = 3593931383
@@ -312,28 +298,28 @@ Window Top = 92
 Window Left = 42
 Source Window State = "1,27,27,27,56,69,69,0,0,0,0,0,0,0,0,0,7,0,19,24,227,517,1,0,"
 
-[File 0029]
+[File 0028]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/Log.h"
 File Type = "Include"
 Disk Date = 3446783066
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0030]
+[File 0029]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Power.c"
 File Type = "CSource"
 Disk Date = 3593558120
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0031]
+[File 0030]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Power.h"
 File Type = "Include"
 Disk Date = 3593558139
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0032]
+[File 0031]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/Relay.c"
 File Type = "CSource"
 Disk Date = 3593561367
@@ -342,7 +328,7 @@ Window Top = 146
 Window Left = 68
 Source Window State = "1,70,70,70,5,11,11,0,0,0,0,0,0,0,0,0,54,0,62,107,323,715,1,0,"
 
-[File 0033]
+[File 0032]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/rs232.h"
 File Type = "Include"
 Disk Date = 3403216800
@@ -351,14 +337,14 @@ Window Top = 36
 Window Left = 10
 Source Window State = "1,62,62,62,12,21,21,0,3,0,0,0,0,0,0,0,41,0,62,12,323,517,1,0,"
 
-[File 0034]
+[File 0033]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/Driver/RS485.h"
 File Type = "Include"
 Disk Date = 3520294253
 In Projects = "1,"
 Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
 
-[File 0035]
+[File 0034]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/FrameWork/TestLib.h"
 File Type = "Include"
 Disk Date = 3593572617
@@ -367,7 +353,7 @@ Window Top = 182
 Window Left = 87
 Source Window State = "1,29,29,29,12,20,20,0,3,0,0,0,0,0,0,0,0,0,29,12,323,715,1,0,"
 
-[File 0036]
+[File 0035]
 Path = "/c/Work/Project/2017/GRIP/code/cvi_prj/APP/type.h"
 File Type = "Include"
 Disk Date = 3593489996

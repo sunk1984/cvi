@@ -37,6 +37,11 @@ void TEST_APP_xx(P_ITEM_T pitem)
     pitem->retResult = PASS;
 }
 
+void TEST_APP_Type(P_ITEM_T pitem)
+{
+	pitem->retResult = PASS;
+}
+
 
 const TEST_ID TestAppIdTab[] = 
 {
