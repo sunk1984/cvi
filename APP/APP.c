@@ -37,7 +37,7 @@ void TEST_APP_xx(P_ITEM_T pitem)
     pitem->retResult = PASS;
 }
 
-void TEST_APP_Type(P_ITEM_T pitem)
+void TEST_APP_GeyType(P_ITEM_T pitem)
 {
 	pitem->retResult = PASS;
 }
